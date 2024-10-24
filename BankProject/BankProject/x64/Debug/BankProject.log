@@ -1,0 +1,3 @@
+﻿  BankProject.cpp
+C:\Users\OEN\source\repos\BankProject\BankProject\BankProject.cpp(17,9): error C2086: 'std::string strUser::AccountNumber': redefinition
+C:\Users\OEN\source\repos\BankProject\BankProject\BankProject.cpp(26,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data

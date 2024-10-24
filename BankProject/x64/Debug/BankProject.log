@@ -1,0 +1,4 @@
+﻿  BankProject.cpp
+C:\Users\OEN\source\repos\BankProject\BankProject\BankProject.cpp(29,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\OEN\source\repos\BankProject\BankProject\BankProject.cpp(203,1): warning C4715: 'FindUser': not all control paths return a value
+  BankProject.vcxproj -> C:\Users\OEN\source\repos\BankProject\x64\Debug\BankProject.exe
